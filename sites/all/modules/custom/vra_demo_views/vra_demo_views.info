@@ -2,6 +2,7 @@ name = VRA Demo Views
 description = Views to accompany the VRA Core Demonstration
 core = 7.x
 package = Features
+php = 5.2.4
 version = 7.x-1.0-dev
 project = vra_demo_views
 dependencies[] = ctools
