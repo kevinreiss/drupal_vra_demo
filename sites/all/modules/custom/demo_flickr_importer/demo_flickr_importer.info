@@ -1,7 +1,8 @@
 name = Demo Flickr Importer
-description = Imports a CSV File Derived from a Flickr Quer
+description = Imports a CSV File Derived from a Flickr API Query
 core = 7.x
 package = Features
+php = 5.2.4
 version = 7.x-1.0-alpha1
 project = demo_flickr_importer
 dependencies[] = ctools
